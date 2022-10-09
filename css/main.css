@@ -1,0 +1,73 @@
+* {
+
+}
+
+body {
+  font-family: proxima-nova, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+header {
+
+}
+
+header a:last-child {
+
+}
+
+header img {
+
+}
+
+header .fas {
+
+}
+
+main {
+
+}
+
+@media screen and (min-width: 40em){
+  main {
+
+  }
+}
+
+main h1 {
+
+}
+
+@media screen and (min-width: 40em){
+  main h1 {
+
+  }
+}
+
+main svg {
+
+}
+
+main img {
+
+}
+
+footer {
+
+}
+
+footer p {
+
+}
+
+footer ul {
+
+}
+
+footer li {
+
+}
+
+footer ul .fab {
+
+}
